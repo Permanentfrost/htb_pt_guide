@@ -31,6 +31,7 @@
 27. [Documentation & Reporting](#documentation--reporting)
 28. [Attacking Enterprise Networks](#attacking-enterprise-networks)
 29. [Tools](#tools)
+30. [Penetration Testing Checklist](#penetration-testing-checklist)
 
 # Module Write-ups
 
@@ -92,10 +93,14 @@
 
 # Tools
 
-## Tool-Specific Documentation 
+## Tool A 
+
+## Tool B
+
+## Tool C
 
 
-# A simple Checklist for penetration testing
+# Penetration Testing Checklist
 
 _WIP_ 
 
